@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ADES-FSP/2122s1-backend-bare-template/issues"
   },
-  "homepage": "https://github.com/ADES-FSP/2122s1-backend-bare-template#readme"
+  "homepage": "https://github.com/ADES-FSP/2122s1-backend-bare-template#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
 }
